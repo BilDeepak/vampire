@@ -25,6 +25,7 @@ honeycomb-a.o \
 kagome.o \
 rocksalt.o \
 spinel.o \
+perovskite.o\
 verify.o
 
 # Append module objects to global tree
